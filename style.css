@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: black 5px solid;
+    display: inline-block;
+    padding-left: 20px;
+    background-color: rgb(195, 255, 255);
+
+}
+#Titulo{
+
+    text-align: center;
+
+}
+#Tabela{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    padding-left: 680px;
+}
+#head{
+
+    background-color: red;
+    color: white;
+}
+.botao1{
+    background-color: rgb(129, 129, 129);
+    color: white;
+}
+.botao2{
+    background-color:red;
+}
+.Tabela1{
+    background-color: rgb(182, 182, 182);
+
+}
